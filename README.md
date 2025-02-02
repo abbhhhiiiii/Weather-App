@@ -1,4 +1,4 @@
-**Weather App**
+## Weather App
 
 A simple weather application built using HTML, CSS, and JavaScript. This app fetches real-time weather data from a weather API and displays it in a user-friendly interface.
 
