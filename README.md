@@ -41,7 +41,7 @@ To use the OpenWeatherMap API, you need to sign up for a free API key at [OpenWe
 
 ## Live Demo
 
-Check out the live demo of the app [here](https://abbhhhiiiii.github.io/weather-app/).
+Check out the live demo of the app [here](https://weather-app-two-sigma-31.vercel.app/).
 
 ## Contributing
 
