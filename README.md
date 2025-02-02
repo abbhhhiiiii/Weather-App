@@ -5,7 +5,7 @@ A simple weather application built using HTML, CSS, and JavaScript. This app fet
 ## Features
 
 - **Current Weather**: Displays the current temperature, weather condition, humidity, and wind speed.
-- **Location Search**: Allows users to search for weather information by city name.
+- **Location Search**: Allows users to search for weather information by any place.
 - **Responsive Design**: The app is fully responsive and works on all devices (desktop, tablet, and mobile).
 
 ## Technologies Used
